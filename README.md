@@ -8,6 +8,9 @@ The PR2 has been outfitted with an RGB-D sensor much like the one you used in pr
 
 Given the cluttered tabletop scenario, you must implement a perception pipeline using your work from Exercises 1,2 and 3 to identify target objects from a so-called “Pick-List” in that particular order, pick up those objects and place them in corresponding dropboxes.
 
+## Results
+For the results and explanation of the solution please refer to the [project writeup](writeup.md).
+
 # Project Setup
 For this setup, catkin_ws is the name of active ROS Workspace, if your workspace name is different, change the commands accordingly
 If you do not have an active ROS workspace, you can create one by:
